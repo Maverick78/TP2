@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1383662385 source:p:\cours\c++\tp2\testrationnel.cpp
+	"include/TestRationnel.h"
+
+1383657086 p:\cours\c++\tp2\include\testrationnel.h
+
+1383658292 source:p:\cours\c++\tp2\main.cpp
+	<iostream>
+
+1383664296 source:p:\cours\c++\tp2\rationnel.cpp
+	<iostream>
+	"include/Rationnel.h"
+
+1383664281 p:\cours\c++\tp2\include\rationnel.h
+
